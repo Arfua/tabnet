@@ -1,4 +1,4 @@
-# Data Science Session #1: TabNet
+# Data Science Session: TabNet
 ![tabnet-architecture](images/tabnet_arch.png)
 
 This session shows how to:
